@@ -1,0 +1,6 @@
+{
+  "name": "WashRecipe Pro",
+  "description": "Denim washing & dyeing chemical recipe management app with visual photo records, formula notes, instant search, full-quality storage, export, and printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
